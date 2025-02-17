@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedMoooon
+- 👋 Hi, I’m Redouane Niati
 - 👀 I’m interested in 3D art for games
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on games projects
